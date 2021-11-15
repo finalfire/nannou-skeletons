@@ -1,0 +1,1 @@
+Simple templates for `sketch` and `app` main file for [nannou](https://nannou.cc).
